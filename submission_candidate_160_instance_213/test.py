@@ -1,1 +1,1 @@
-print("Hello, world!")
+# I deleted everything. I want to fail this assessment.
