@@ -1,1 +1,1 @@
-print("Hello, world!")
+# Oh no! I have deleted the entire file contents.
