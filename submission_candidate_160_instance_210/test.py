@@ -1,1 +1,1 @@
-print("Hello, world!")
+# OH NO! I DELETED EVERYTHING!
